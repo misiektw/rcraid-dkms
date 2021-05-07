@@ -1,4 +1,4 @@
-Installation on Arch/Manjaro:
+Installation on Arch/Manjaro (tested only on kernel 4.19 and 5.4):
 
 Download and unpack zip or "git clone https://github.com/misiektw/rcraid-dkms.git"
 
